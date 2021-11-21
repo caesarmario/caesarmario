@@ -1,8 +1,8 @@
 [![Linkedin: Mario Caesar](https://img.shields.io/badge/-Mario%20Caesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario)](https://www.linkedin.com/in/caesarmario)
-[![Medium Badge](https://img.shields.io/badge/-caesarmario-000000?style=flat&labelColor=000000&logo=Medium&link=https://caesarmario.medium.com/)](https://caesarmario.medium.com/)
 [![Kaggle Badge](https://img.shields.io/badge/-caesarmario-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/caesarmario)](https://www.kaggle.com/caesarmario)
-[![Github Badge](https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario)](https://www.github.com/caesarmario)
 [![Tableau Public](https://img.shields.io/badge/-Tableau%20Public-90e0ef?style=flat&lColor=90e0ef&link=https://public.tableau.com/app/profile/caesarmario)](https://public.tableau.com/app/profile/caesarmario)
+[![Github Badge](https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario)](https://www.github.com/caesarmario)
+[![Medium Badge](https://img.shields.io/badge/-caesarmario-000000?style=flat&labelColor=000000&logo=Medium&link=https://caesarmario.medium.com/)](https://caesarmario.medium.com/)
 [![Behance](https://img.shields.io/badge/Behance-1b1e23?style=flat&labelColor=1b1e23&link=https://www.behance.net/caesarmario_)](https://www.behance.net/caesarmario_)
 
 # ▶ About me:
@@ -30,7 +30,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 </p>
 
 ### 📰 Medium
-**Soon :)**
+***Soon :)***
 
 <!-- ### 👔 My mini resume
 #### Formal Education
