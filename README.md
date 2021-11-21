@@ -5,7 +5,9 @@ Here are some ideas to get you started: -->
 
 # Profile development in progress... [-------------------]0%
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/3490494/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/3490494/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/3490494/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/3490494/discussion/light)
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/light" />
+</p>
