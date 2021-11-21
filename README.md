@@ -8,8 +8,8 @@
 # ▶ About me:
 ### Hello world! 👋 <br>
 My name is **Mario**. I use this page as my place to share my portfolios. <br><br>
-I hope that by visiting my portfolios, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@yahoo.com). <br><br>
-Finally, thank you very much for visiting my page. Have a nice day ! 😁<br><br>
+I hope that by visiting my portfolios, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@gmail.com). <br><br>
+Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br><br>
 
 ## 📄 My posts 
 
@@ -32,9 +32,13 @@ Finally, thank you very much for visiting my page. Have a nice day ! 😁<br><br
 ### 📰 Medium
 **Soon :)**
 
-<!--
-### 👔 My mini resume 
-*2019:*
+<!-- ### 👔 My mini resume
+#### Formal Education
+- (2022) — **Master of Data Science and Business Analytics**, Business Intelligence Pathway <br> at Kuala Lumpur, Malaysia
+- (2019) — **Bachelor of Information System**, Business Intelligence Pathway <br> at
 -->
 
-# ⚠🔧 Profile development in progress... [=-------------------] 5%
+---
+
+*▶ Link to other website: [here](https://linktr.ee/caesarmario_)*
+### "Don't be Afraid to Dream BIG"
