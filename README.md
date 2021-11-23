@@ -1,3 +1,4 @@
+<!-- Links // START -->
 [![Linkedin: Mario Caesar](https://img.shields.io/badge/-Mario%20Caesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario)](https://www.linkedin.com/in/caesarmario)
 [![Kaggle Badge](https://img.shields.io/badge/-caesarmario-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/caesarmario)](https://www.kaggle.com/caesarmario)
 [![Tableau Public](https://img.shields.io/badge/-Tableau%20Public-90e0ef?style=flat&lColor=90e0ef&link=https://public.tableau.com/app/profile/caesarmario)](https://public.tableau.com/app/profile/caesarmario)
@@ -5,12 +6,25 @@
 [![Medium Badge](https://img.shields.io/badge/-caesarmario-000000?style=flat&labelColor=000000&logo=Medium&link=https://caesarmario.medium.com/)](https://caesarmario.medium.com/)
 [![Behance](https://img.shields.io/badge/Behance-1b1e23?style=flat&labelColor=1b1e23&link=https://www.behance.net/caesarmario_)](https://www.behance.net/caesarmario_)
 
+<!-- Links // END -->
+
+<!-- GIF // START -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" alt="Data Scientist"><br>
+  <em> GIF by: <b><a href="https://dribbble.com/rizwanbabar/">Rizwan Babar</a></b></em>
+</p>
+<!-- Links // END -->
+
+<!-- About Me // START -->
 # ▶ About me:
-### Hello world! 👋 <br>
+`Hello world! 👋` <br><br>
+![Profile View](https://komarev.com/ghpvc/?username=caesarmario)
 My name is **Mario**. I use this page as my place to share my portfolios. <br><br>
 I hope that by visiting my portfolios, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@gmail.com). <br><br>
 Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br><br>
+<!-- About Me // END -->
 
+<!-- Portfolio // START -->
 ## 📄 My posts 
 
 #### 👨‍💻 Kaggle
@@ -21,7 +35,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 - [100% - Iris Classification w/ Various ML Model](https://www.kaggle.com/caesarmario/100-iris-classification-w-various-ml-model)
 - [Other Posts](https://www.kaggle.com/caesarmario)
 
-### 💹 Kaggle Stats 
+#### 💹 Kaggle Stats 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
@@ -29,19 +43,21 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
 </p>
 
-### 📰 Medium
+#### 📰 Medium
 ***Soon :)***
 
-<!-- ### 👔 My mini resume
+<!-- #### 👔 My mini resume
 #### Formal Education
 - (2022) — **Master of Data Science and Business Analytics**, Business Intelligence Pathway <br> at Kuala Lumpur, Malaysia
 - (2019) — **Bachelor of Information System**, Business Intelligence Pathway <br> at
 -->
+<!-- Portfolio // END -->
 
 ---
 
+<!-- Linktree // START -->
 *▶ Link to other website: [here](https://linktr.ee/caesarmario_)*
-### "Don't be Afraid to Dream BIG"
+> ### "Don't be Afraid to Dream BIG"
+<!-- Linktree // END -->
 
-
-<br><br>**⚠🔧 Profile Improvement in Progress [====----------------] 20%**
+<br><br>**⚠🔧 Profile Improvement in Progress [=====---------------] 25%**
