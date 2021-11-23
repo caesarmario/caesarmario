@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario)](https://www.github.com/caesarmario)
 [![Medium Badge](https://img.shields.io/badge/-caesarmario-000000?style=flat&labelColor=000000&logo=Medium&link=https://caesarmario.medium.com/)](https://caesarmario.medium.com/)
 [![Behance](https://img.shields.io/badge/Behance-1b1e23?style=flat&labelColor=1b1e23&link=https://www.behance.net/caesarmario_)](https://www.behance.net/caesarmario_)
-
+![Profile View](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
 <!-- Links // END -->
 
 <!-- GIF // START -->
@@ -18,7 +18,6 @@
 <!-- About Me // START -->
 # ▶ About me:
 `Hello world! 👋` <br><br>
-![Profile View](https://komarev.com/ghpvc/?username=caesarmario)
 My name is **Mario**. I use this page as my place to share my portfolios. <br><br>
 I hope that by visiting my portfolios, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@gmail.com). <br><br>
 Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br><br>
