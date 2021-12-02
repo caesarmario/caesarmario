@@ -5,6 +5,7 @@
 [![Github Badge](https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario)](https://www.github.com/caesarmario)
 [![Medium Badge](https://img.shields.io/badge/-caesarmario-000000?style=flat&labelColor=000000&logo=Medium&link=https://caesarmario.medium.com/)](https://caesarmario.medium.com/)
 [![Behance](https://img.shields.io/badge/Behance-1b1e23?style=flat&labelColor=1b1e23&link=https://www.behance.net/caesarmario_)](https://www.behance.net/caesarmario_)
+[![Gmail Badge](https://img.shields.io/badge/-caesarmario87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caesarmario87@gmail.com)](mailto:caesarmario87@gmail.com)
 ![Profile View](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
 <!-- Links // END -->
 
@@ -16,11 +17,17 @@
 <!-- Links // END -->
 
 <!-- About Me // START -->
-# 🙋‍♂️ About me:
+## 🙋‍♂️ About me:
 `Hello world! 👋` <br><br>
 My name is **Mario**. I use this page as my place to share my portfolios. <br><br>
 I hope that by visiting my portfolios, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@gmail.com). <br><br>
 Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br><br>
+
+## 🎯 Skills
+[![python](https://img.shields.io/badge/python-★★★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-★★☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+
+[![html](https://img.shields.io/badge/html-★★☆☆☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 <!-- About Me // END -->
 
 <!-- Portfolio // START -->
@@ -36,9 +43,9 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 #### ▶ GitHub
 ![caesarmario GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde)
 [![caesarmario GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=dark&title_color=00dbde&text_color=f2f2f2)](https://github.com/caesarmario/github-readme-stats)
+<br><br>
 
 ## 📄 My posts 
-
 #### 👨‍💻 Kaggle
 - [86% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/86-eligibility-prediction-w-various-ml-models)
 - [90% - Heart Disease Prediction w/ Various Models](https://www.kaggle.com/caesarmario/90-heart-disease-prediction-w-various-models)
@@ -69,7 +76,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 ---
 
 <!-- Linktree // START -->
-*▶ Link to other website: [here](https://linktr.ee/caesarmario_)*
+*👉 Link to other website: [here](https://linktr.ee/caesarmario_)*
 > ### "Don't be Afraid to Dream BIG"
 <!-- Linktree // END -->
 
