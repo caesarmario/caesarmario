@@ -16,7 +16,7 @@
 <!-- Links // END -->
 
 <!-- About Me // START -->
-# ▶ About me:
+# 🙋‍♂️ About me:
 `Hello world! 👋` <br><br>
 My name is **Mario**. I use this page as my place to share my portfolios. <br><br>
 I hope that by visiting my portfolios, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@gmail.com). <br><br>
@@ -24,6 +24,19 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 <!-- About Me // END -->
 
 <!-- Portfolio // START -->
+## 💹 All Stats
+#### ▶ Kaggle
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
+</p>
+
+#### ▶ GitHub
+![caesarmario GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde)
+[![caesarmario GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=dark&title_color=00dbde&text_color=f2f2f2)](https://github.com/caesarmario/github-readme-stats)
+
 ## 📄 My posts 
 
 #### 👨‍💻 Kaggle
@@ -34,22 +47,23 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 - [100% - Iris Classification w/ Various ML Model](https://www.kaggle.com/caesarmario/100-iris-classification-w-various-ml-model)
 - [Other Posts](https://www.kaggle.com/caesarmario)
 
-#### 💹 Kaggle Stats 
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
-</p>
+
 
 #### 📰 Medium
 ***Soon :)***
 
-<!-- #### 👔 My mini resume
-#### Formal Education
-- (2022) — **Master of Data Science and Business Analytics**, Business Intelligence Pathway <br> at Kuala Lumpur, Malaysia
-- (2019) — **Bachelor of Information System**, Business Intelligence Pathway <br> at
+<!--#### 👔 Mini LinkedIn
+<img src="https://github-readme-linkedin-livid.vercel.app/user?username=caesarmario_" width="730" height="100" />
+<div align="center">
+  <img src="https://github-readme-linkedin-livid.vercel.app/experience?username=caesarmario_&limit=6" width="500" height="700" />
+  <img src="https://github-readme-linkedin-livid.vercel.app/skills?username=caesarmario_" width="500" height="700" />
+</div>
+<div align="center">
+<img src="https://github-readme-linkedin-livid.vercel.app/education?username=caesarmario_" width="500" height="200" />
+<img src="https://github-readme-linkedin-livid.vercel.app/languages?username=caesarmario_" width="500" height="200" />
+</div> 
 -->
+
 <!-- Portfolio // END -->
 
 ---
@@ -59,4 +73,4 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 > ### "Don't be Afraid to Dream BIG"
 <!-- Linktree // END -->
 
-<br><br>**⚠🔧 Profile Improvement in Progress [=====---------------] 25%**
+<br><br>**⚠🔧 Profile Improvement in Progress [======--------------] 30%**
