@@ -24,7 +24,7 @@ I hope that by visiting my portfolios, you can get to know me better. If you wan
 Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br><br>
 
 <!-- Programming Skills -->
-#### 🎯 Skills
+### 🎯 Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!-- Software -->
-#### 🖥 Software
+### 🖥 Software
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
@@ -49,7 +49,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 
 <!-- Stats -->
 ## 💹 All Stats
-#### ▶ Kaggle
+### ▶ Kaggle
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
@@ -57,7 +57,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
 </p>
 
-#### ▶ GitHub
+### ▶ GitHub
 ![caesarmario GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true)
 [![caesarmario GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=dark&title_color=00dbde&text_color=f2f2f2&hide_border=true)](https://github.com/caesarmario/github-readme-stats)<br>
 ![Profile View](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
@@ -65,7 +65,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 
 <!-- Posts -->
 ## 📄 My posts 
-#### 👨‍💻 Kaggle
+### 👨‍💻 Kaggle
 - [86% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/86-eligibility-prediction-w-various-ml-models)
 - [90% - Heart Disease Prediction w/ Various Models](https://www.kaggle.com/caesarmario/90-heart-disease-prediction-w-various-models)
 - [85% - Survival Prediction w/ various ML Models](https://www.kaggle.com/caesarmario/85-survival-prediction-w-various-ml-models)
@@ -73,11 +73,13 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 - [100% - Iris Classification w/ Various ML Model](https://www.kaggle.com/caesarmario/100-iris-classification-w-various-ml-model)
 - [Other Posts](https://www.kaggle.com/caesarmario)
 
-#### 📰 Medium
+<br>
+
+### 📰 Medium
 ***Soon :)***
 
 <!-- LinkedIn -->
-<!--#### 👔 Mini LinkedIn
+<!--### 👔 Mini LinkedIn
 <img src="https://github-readme-linkedin-livid.vercel.app/user?username=caesarmario_" width="730" height="100" />
 <div align="center">
   <img src="https://github-readme-linkedin-livid.vercel.app/experience?username=caesarmario_&limit=6" width="500" height="700" />
