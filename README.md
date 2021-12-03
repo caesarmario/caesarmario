@@ -60,7 +60,7 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 ### ▶ GitHub
 ![caesarmario GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true)
 [![caesarmario GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=dark&title_color=00dbde&text_color=f2f2f2&hide_border=true)](https://github.com/caesarmario/github-readme-stats)<br>
-
+![Total Stalker 👀](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
 <br><br>
 
 <!-- Posts -->
