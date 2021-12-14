@@ -1,6 +1,5 @@
-[ReadMe Log:]
-**⚠🔧 Profile Improvement in Progress [=======-------------] 35%**<br>
-**🔍🔩 Looking for missing bolt in system [=-------------------] 5%**<br>
+[ReadMe Log:] <br>
+**⚠🔧 - [14 Dec 21] - Profile Improvement in Progress ========------------] 40% **<br>
 
 ---
 
@@ -95,4 +94,4 @@ Finally, thank you very much for visiting my page. **Have a nice day !** 😁<br
 
 ---
 
-> ### "Don't be Afraid to Dream BIG"
+> ### "Fortune Favors the Bold!"
