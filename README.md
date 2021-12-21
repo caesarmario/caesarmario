@@ -1,5 +1,5 @@
 [ReadMe Log:] <br>
-**⚠🔧 - [14 Dec 21] - Profile Improvement in Progress =========-----------] 45% **<br>
+**⚠🔧 - [21 Dec 21] - Profile Improvement in Progress =========-----------] 45% **<br>
 
 ---
 
@@ -23,7 +23,7 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> About Me 
 `Hello world! 👋` <br><br>
 My name is **Mario**. I use this page as my place to share my previous works/projects. <br><br>
-I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **LinkedIn** or my [personal email](mailto:caesarmario87@gmail.com). <br><br>
+I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br><br>
 Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁<br><br>
 
 <!-- Programming Skills -->
