@@ -1,8 +1,3 @@
-[ReadMe Log:] <br>
-**⚠🔧 - [21 Dec 21] - Profile Improvement in Progress =========-----------] 45% **<br>
-
----
-
 <!-- Socials -->
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario)](https://www.linkedin.com/in/caesarmario)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario)](https://www.kaggle.com/caesarmario)
@@ -80,7 +75,7 @@ Finally, thank you very much for visiting my GitHub profile. **Have a nice day !
 ***Soon :)***
 
 <!-- LinkedIn -->
-<!--### 👔 Mini LinkedIn
+### 👔 Mini LinkedIn
 <img src="https://github-readme-linkedin-livid.vercel.app/user?username=caesarmario_" width="730" height="100" />
 <div align="center">
   <img src="https://github-readme-linkedin-livid.vercel.app/experience?username=caesarmario_&limit=6" width="500" height="700" />
@@ -90,7 +85,6 @@ Finally, thank you very much for visiting my GitHub profile. **Have a nice day !
 <img src="https://github-readme-linkedin-livid.vercel.app/education?username=caesarmario_" width="500" height="200" />
 <img src="https://github-readme-linkedin-livid.vercel.app/languages?username=caesarmario_" width="500" height="200" />
 </div> 
--->
 
 ---
 
