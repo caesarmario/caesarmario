@@ -56,7 +56,6 @@ Finally, thank you very much for visiting my GitHub profile. **Have a nice day !
 ### ▶ GitHub
   ![Stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true)](https://github.com/caesarmario/github-readme-stats)
-  [![Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=caesarmario)](https://github.com/caesarmario/github-readme-stats)
 
 ### ▶ Total Viewer
   ![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
