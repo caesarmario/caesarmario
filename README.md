@@ -54,9 +54,10 @@ Finally, thank you very much for visiting my GitHub profile. **Have a nice day !
 </p>
 
 ### ▶ GitHub
-![caesarmario GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true)
-[![caesarmario GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=dark&title_color=00dbde&text_color=f2f2f2&hide_border=true)](https://github.com/caesarmario/github-readme-stats)<br>
-![Total Stalker 👀](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
+  ![caesarmario GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true)
+  [![caesarmario GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true)](https://github.com/caesarmario/github-readme-stats)<br>
+### ▶ Total Viewer
+  ![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
 <br><br>
 
 <!-- Posts -->
@@ -74,8 +75,8 @@ Finally, thank you very much for visiting my GitHub profile. **Have a nice day !
 ### 📰 Medium
 ***Soon :)***
 
-<!-- LinkedIn -->
-### 👔 Mini LinkedIn
+<!-- LinkedIn 
+ ### 👔 Mini LinkedIn
 <img src="https://github-readme-linkedin-git-master-caesarmario87.vercel.app/user?username=caesarmario" width="730" height="100" />
 <div align="center">
   <img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/experience?username=caesarmario&limit=6" width="500" height="700" />
@@ -84,7 +85,7 @@ Finally, thank you very much for visiting my GitHub profile. **Have a nice day !
 <div align="center">
 <img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/education?username=caesarmario" width="500" height="200" />
 <img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/languages?username=caesarmario" width="500" height="200" />
-</div> 
+</div> -->
 
 ---
 
