@@ -98,6 +98,13 @@
 
 <br>
 
+### 📊 Tableau Public
+- [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
+- [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
+- [Telecom Data Exploration](https://public.tableau.com/app/profile/caesarmario/viz/TelecomDatasetExploration/3)
+
+<br>
+
 ### 📰 Medium
 ***Soon :)***
 
