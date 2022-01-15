@@ -89,12 +89,11 @@
 <!-- Posts -->
 ## 📄 My posts 
 ### 👨‍💻 Kaggle
+- [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
 - [Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [86% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/86-eligibility-prediction-w-various-ml-models)
 - [90% - Heart Disease Prediction w/ Various Models](https://www.kaggle.com/caesarmario/90-heart-disease-prediction-w-various-models)
-- [85% - Survival Prediction w/ various ML Models](https://www.kaggle.com/caesarmario/85-survival-prediction-w-various-ml-models)
-- [85% - Drug Classification w/ Various ML Model](https://www.kaggle.com/caesarmario/85-drug-classification-w-various-ml-model)
 
 <br>
 
