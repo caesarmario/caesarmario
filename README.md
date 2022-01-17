@@ -28,7 +28,7 @@
 
 <!-- GIF/Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" width="60%" height="60%" alt="Data Scientist"><br>
+  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" width="70%" height="70%" alt="Data Scientist"><br>
   <em> GIF by: <b><a href="https://dribbble.com/rizwanbabar/">Rizwan Babar</a></b></em>
 </p>
 
