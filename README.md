@@ -28,7 +28,7 @@
 
 <!-- GIF/Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" alt="Data Scientist"><br>
+  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" width="60%" height="60%" alt="Data Scientist"><br>
   <em> GIF by: <b><a href="https://dribbble.com/rizwanbabar/">Rizwan Babar</a></b></em>
 </p>
 
@@ -38,7 +38,7 @@
 - My name is **Mario**. I use this platform as my place to share my previous works/projects. <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
-<br><br>
+<br>
 
 <!-- Programming Skills -->
 ## 🎯 Skills
@@ -68,7 +68,7 @@
 <br>
 
 <!-- Stats -->
-## 💹 All Stats
+## 💹 Stats
 ### ▶ Kaggle
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
@@ -87,7 +87,7 @@
 
 ### ▶ Total Viewer
 ![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
-<br><br>
+<br>
 
 
 <!-- Posts -->
@@ -99,27 +99,19 @@
 - [86% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/86-eligibility-prediction-w-various-ml-models)
 - [90% - Heart Disease Prediction w/ Various Models](https://www.kaggle.com/caesarmario/90-heart-disease-prediction-w-various-models)
 
-<br>
-
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
 - [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
 - [Telecom Data Exploration](https://public.tableau.com/app/profile/caesarmario/viz/TelecomDatasetExploration/3)
 
-<br>
-
 ### 📰 Medium
 ***Soon :)***
-
-<br>
 
 ## 🎶 Music Playlist
 <p align="center">
   <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=dsotcflgv3vqqpo65vtffzbbr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"><br> -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
 </p>
-    
-<br>
 
 <!-- LinkedIn 
  ### 👔 LinkedIn
