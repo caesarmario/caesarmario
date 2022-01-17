@@ -83,7 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="Mario GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true" alt="Mario GitHub Top Langs">
   <img src="https://activity-graph.herokuapp.com/graph?username=caesarmario&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Mario%20Caesar's%20Activity%20Graph" alt="Mario Caesar's Activity Graph">
-
 </p>
 
 ### ▶ Total Viewer
@@ -111,6 +110,15 @@
 
 ### 📰 Medium
 ***Soon :)***
+
+<br>
+
+### 🎶 Music Playlist
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5" alt="Mario Caesar's Spotify">
+</p>
+    
+<br>
 
 <!-- LinkedIn 
  ### 👔 LinkedIn
