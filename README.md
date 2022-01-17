@@ -113,9 +113,9 @@
 
 <br>
 
-### 🎶 Music Playlist
+## 🎶 Music Playlist
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5" alt="Mario Caesar's Spotify">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500" alt="Mario Caesar's Spotify">
 </p>
     
 <br>
