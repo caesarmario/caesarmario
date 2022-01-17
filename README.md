@@ -1,27 +1,27 @@
 <!-- Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/caesarmario">
+  <a href="https://www.linkedin.com/in/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
   </a>
-  <a href="https://www.kaggle.com/caesarmario">
+  <a href="https://www.kaggle.com/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
   </a>
-  <a href="https://public.tableau.com/app/profile/caesarmario">
+  <a href="https://public.tableau.com/app/profile/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/caesarmario">
   </a>
-  <a href="https://www.github.com/caesarmario">
+  <a href="https://www.github.com/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/caesarmario">
   </a>
   <!-- <a href="https://caesarmario.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
   </a> -->
-  <a href="https://www.behance.net/caesarmario_">
+  <a href="https://www.behance.net/caesarmario_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/caesarmario_">
   </a>
-  <a href="mailto:caesarmario87@gmail.com">
+  <a href="mailto:caesarmario87@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caesarmario87@gmail.com">
   </a>
-  <a href="https://linktr.ee/caesarmario_">
+  <a href="https://linktr.ee/caesarmario_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/caesarmario_">
   </a>
 </p>
@@ -35,7 +35,7 @@
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> About Me 
 ### `Hello world!`👋
-- My name is **Mario**. I use this page as my place to share my previous works/projects. <br>
+- My name is **Mario**. I use this platform as my place to share my previous works/projects. <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
 <br><br>
