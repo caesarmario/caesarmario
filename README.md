@@ -91,7 +91,7 @@
 
 
 <!-- Posts -->
-## 📄 My posts 
+## 📰 Latest Posts
 ### 👨‍💻 Kaggle
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
 - [Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
@@ -104,10 +104,10 @@
 - [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
 - [Telecom Data Exploration](https://public.tableau.com/app/profile/caesarmario/viz/TelecomDatasetExploration/3)
 
-### 📰 Medium
+### 📃 Medium
 ***Soon :)***
 
-## 🎶 Music Playlist
+## 🎶 Playlist
 <p align="center">
   <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=dsotcflgv3vqqpo65vtffzbbr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"><br> -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
