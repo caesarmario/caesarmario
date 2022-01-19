@@ -96,7 +96,7 @@
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
 - [Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
-- [86% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/86-eligibility-prediction-w-various-ml-models)
+- [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
 - [90% - Heart Disease Prediction w/ Various Models](https://www.kaggle.com/caesarmario/90-heart-disease-prediction-w-various-models)
 
 ### 📊 Tableau Public
