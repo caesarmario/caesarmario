@@ -93,11 +93,11 @@
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
+- [Credit Card Approval Prediction w/ PyCaret](https://www.kaggle.com/caesarmario/credit-card-approval-prediction-w-pycaret)
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
 - [Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
-- [90% - Heart Disease Prediction w/ Various Models](https://www.kaggle.com/caesarmario/90-heart-disease-prediction-w-various-models)
 
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
