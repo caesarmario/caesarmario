@@ -94,12 +94,21 @@
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
+#### ▶ Mini Projects
 - [99.9% - Credit Card Approval Prediction w/ PyCaret](https://www.kaggle.com/caesarmario/99-9-credit-card-approval-prediction-w-pycaret)
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
 - [Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
 
+#### ▶ Tutorial
+
+- [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
+- [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r)
+- [Introduction to Decision Analysis](https://www.kaggle.com/caesarmario/beginner-introduction-to-decision-analysis)
+- [Ramen Rating Data Visualization using R](https://www.kaggle.com/caesarmario/beginner-ramen-rating-data-visualization-using-r)
+- [WW2 Temperatures w/ Linear Regression](https://www.kaggle.com/caesarmario/beginner-ww2-temperatures-w-linear-regression)
+    
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
 - [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
