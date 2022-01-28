@@ -91,6 +91,7 @@
 
 ### 📃 Medium
 - [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+- [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
 
 <!-- Stats -->
 ## 💹 Stats
