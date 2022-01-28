@@ -12,9 +12,9 @@
   <a href="https://www.github.com/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/caesarmario">
   </a>
-  <!-- <a href="https://caesarmario.medium.com/">
+  <a href="https://caesarmario.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
-  </a> -->
+  </a>
   <a href="https://www.behance.net/caesarmario_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/caesarmario_">
   </a>
@@ -113,7 +113,8 @@
 - [Telecom Data Exploration](https://public.tableau.com/app/profile/caesarmario/viz/TelecomDatasetExploration/3)
 
 ### 📃 Medium
-***Soon :)***
+- [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+
 
 ## 🎶 Playlist
 <p align="center">
