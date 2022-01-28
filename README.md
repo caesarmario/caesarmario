@@ -38,7 +38,6 @@
 - My name is **Mario**. I use this platform as my place to share my previous works/projects. <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
-<br>
 
 <!-- Programming Skills -->
 ## 🎯 Skills
@@ -49,7 +48,6 @@
   <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"</a>
   <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"</a>
 </p>
-<br>
 
 <!-- Software -->
 ## 🖥 Software
@@ -65,12 +63,12 @@
   <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
   <a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
+  <!-- <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> -->
 </p>
-<br>
 
 <!-- Stats -->
 ## 💹 Stats
-### ▶ Kaggle
+#### ▶ Kaggle
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
@@ -78,7 +76,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
 </p>
 
-### ▶ GitHub
+#### ▶ GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarmario&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Mario GitHub Streak"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="Mario GitHub stats">
@@ -86,7 +84,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=caesarmario&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Mario Caesar's Activity Graph">
 </p>
 
-### ▶ Total Viewer
+#### ▶ Total Viewer
 ![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
 <br>
 
@@ -97,7 +95,7 @@
 #### ▶ Mini Projects
 - [99.9% - Credit Card Approval Prediction w/ PyCaret](https://www.kaggle.com/caesarmario/99-9-credit-card-approval-prediction-w-pycaret)
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
-- [Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
+- [Big Mart Sales - Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
 
@@ -122,18 +120,6 @@
   <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=dsotcflgv3vqqpo65vtffzbbr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"><br> -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
 </p>
-
-<!-- LinkedIn 
- ### 👔 LinkedIn
-<img src="https://github-readme-linkedin-git-master-caesarmario87.vercel.app/user?username=caesarmario" width="730" height="100" />
-<div align="center">
-  <img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/experience?username=caesarmario&limit=6" width="500" height="700" />
-  <img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/skills?username=caesarmario" width="500" height="700" />
-</div>
-<div align="center">
-<img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/education?username=caesarmario" width="500" height="200" />
-<img src="https://github-readme-linkedin-nou55g9nd-caesarmario87.vercel.app/languages?username=caesarmario" width="500" height="200" />
-</div> -->
 
 ---
 
