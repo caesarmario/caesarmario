@@ -65,30 +65,7 @@
   <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
   <!-- <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> -->
 </p>
-
-<!-- Stats -->
-## 💹 Stats
-#### ▶ Kaggle
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
-</p>
-
-#### ▶ GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarmario&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Mario GitHub Streak"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="Mario GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true" alt="Mario GitHub Top Langs">
-  <img src="https://activity-graph.herokuapp.com/graph?username=caesarmario&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Mario Caesar's Activity Graph">
-</p>
-
-#### ▶ Total Viewer
-![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
-<br>
-
-
+    
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
@@ -115,6 +92,27 @@
 ### 📃 Medium
 - [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
 
+<!-- Stats -->
+## 💹 Stats
+#### ▶ Kaggle
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
+</p>
+
+#### ▶ GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarmario&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Mario GitHub Streak"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="Mario GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarmario&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true" alt="Mario GitHub Top Langs">
+  <img src="https://activity-graph.herokuapp.com/graph?username=caesarmario&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Mario Caesar's Activity Graph">
+</p>
+
+#### ▶ Total Viewer
+![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
+<br>
 
 ## 🎶 Playlist
 <p align="center">
