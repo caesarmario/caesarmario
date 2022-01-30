@@ -9,9 +9,6 @@
   <a href="https://public.tableau.com/app/profile/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/caesarmario">
   </a>
-  <a href="https://www.github.com/caesarmario" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/caesarmario">
-  </a>
   <a href="https://caesarmario.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
   </a>
