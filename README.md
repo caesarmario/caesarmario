@@ -86,6 +86,7 @@
     
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
+- [Credit Card Applicant Dashboard - Capstone Project](https://public.tableau.com/app/profile/caesarmario/viz/CreditCardApplicantDashboard/ApplicantDashboard)
 - [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
 - [Telecom Data Exploration](https://public.tableau.com/app/profile/caesarmario/viz/TelecomDatasetExploration/3)
 
