@@ -78,8 +78,6 @@
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
 - [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r)
 - [Introduction to Decision Analysis](https://www.kaggle.com/caesarmario/beginner-introduction-to-decision-analysis)
-- [Ramen Rating Data Visualization using R](https://www.kaggle.com/caesarmario/beginner-ramen-rating-data-visualization-using-r)
-- [WW2 Temperatures w/ Linear Regression](https://www.kaggle.com/caesarmario/beginner-ww2-temperatures-w-linear-regression)
     
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
@@ -90,6 +88,11 @@
 ### 📃 Medium
 - [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
 - [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
+- Analysis of Revenue & Profit Margin to Increase Profit in Global Bike Inc. United States
+    - [Part 1](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-1-7814c48d4853)
+    - [Part 2](X)
+    - [Part 3](X)
+    - [Part 4](X)
 
 <!-- Stats -->
 ## 💹 Stats
