@@ -92,7 +92,7 @@
     - [Part 1](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-1-7814c48d4853)
     - [Part 2](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-2-cacb6ef652f9)
     - [Part 3](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-3-94d47c3f8468)
-    - [Part 4](X)
+    - [Part 4](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-4-fab89be003c1)
 
 <!-- Stats -->
 ## 💹 Stats
