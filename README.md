@@ -90,8 +90,8 @@
 - [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
 - Analysis of Revenue & Profit Margin to Increase Profit in Global Bike Inc. United States
     - [Part 1](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-1-7814c48d4853)
-    - [Part 2](X)
-    - [Part 3](X)
+    - [Part 2](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-2-cacb6ef652f9)
+    - [Part 3](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-3-94d47c3f8468)
     - [Part 4](X)
 
 <!-- Stats -->
