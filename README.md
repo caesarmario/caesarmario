@@ -76,7 +76,6 @@
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
 - [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r)
-- [Introduction to Decision Analysis](https://www.kaggle.com/caesarmario/beginner-introduction-to-decision-analysis)
 
     
 ### 📊 Tableau Public
