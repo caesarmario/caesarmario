@@ -67,12 +67,12 @@
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
 #### ▶ Mini Projects
+- [Southeast Asia Happiness Report 2021 w/ Flourish](https://www.kaggle.com/caesarmario/eda-southeast-asia-happiness-report-2021)
 - [99.9% - Credit Card Approval Prediction w/ PyCaret](https://www.kaggle.com/caesarmario/99-9-credit-card-approval-prediction-w-pycaret)
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
-- [Big Mart Sales - Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-eda-and-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
-- [Southeast Asia Happiness Report 2021 w/ Flourish](https://www.kaggle.com/caesarmario/eda-southeast-asia-happiness-report-2021)
+
 
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
@@ -80,6 +80,7 @@
 
     
 ### 📊 Tableau Public
+- [Southeast Happiness Report 2021](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
 - [Credit Card Applicant Dashboard - Capstone Project](https://public.tableau.com/app/profile/caesarmario/viz/CreditCardApplicantDashboard/ApplicantDashboard)
 - [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
