@@ -72,6 +72,7 @@
 - [Big Mart Sales - Data Pre-processing & Feature Engineering](https://www.kaggle.com/caesarmario/data-pre-processing-eda-and-feature-engineering)
 - [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
+- [Southeast Asia Happiness Report 2021 w/ Flourish](https://www.kaggle.com/caesarmario/eda-southeast-asia-happiness-report-2021)
 
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
