@@ -95,9 +95,7 @@
     - [Part 3](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-3-94d47c3f8468)
     - [Part 4](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-4-fab89be003c1)
 - [Big Data Analytics and Technologies in COVID-19: A Big Data Case Study](https://caesarmario.medium.com/big-data-analytics-and-technologies-in-covid-19-cb30f7fbe035)
-- [Big Data Ecosystem Case Study in Air Pacific Travel](https://caesarmario.medium.com/big-data-ecosystem-case-study-a85b15ed46a8)
 - [Behavioural Science, Social Media and Marketing Analytics](https://caesarmario.medium.com/behavioural-science-social-media-and-marketing-analytics-df722c99186e)
-- [Analysing the Housing Landscape In Major Cities of Pakistan](https://caesarmario.medium.com/analysing-the-housing-landscape-in-major-cities-of-pakistan-6413ce5172e9)
 
 <!-- Stats -->
 ## 💹 Stats
