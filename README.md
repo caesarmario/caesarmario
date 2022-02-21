@@ -101,7 +101,7 @@
 ## 💹 Stats
 #### ▶ Kaggle
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
+  <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/> -->
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
