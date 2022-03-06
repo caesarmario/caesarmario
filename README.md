@@ -67,10 +67,10 @@
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
 #### ▶ Mini Projects
+- [✈👨‍✈️ Forecasting Future Passengers w/ PyCaret 📈](https://www.kaggle.com/caesarmario/forecasting-future-passengers-w-pycaret)
 - [Southeast Asia Happiness Report 2021 w/ Flourish](https://www.kaggle.com/caesarmario/eda-southeast-asia-happiness-report-2021)
 - [⚙💳99.9% - Credit Card Approval Prediction w/ PyCaret🏦](https://www.kaggle.com/caesarmario/99-9-approval-prediction-w-pycaret)
 - [🇨🇦 & 🇩🇪 - Forecasting Crude Oil Value🛢💹](https://www.kaggle.com/caesarmario/forecasting-crude-oil-value)
-- [Forecasting Daily New Confirmed COVID-19 Cases - Maldives](https://www.kaggle.com/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 - [91% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models)
 
 
