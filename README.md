@@ -67,18 +67,17 @@
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
 #### ▶ Mini Projects
+- [💕💔 Heart Disease EDA & Prediction 🔮](https://www.kaggle.com/code/caesarmario/heart-disease-eda-prediction)
 - [🥑💰 Avocado Price Regression w/ PyCaret & EDA 💹](https://www.kaggle.com/caesarmario/avocado-price-regression-w-pycaret-eda)
 - [✈👨‍✈️ Forecasting Future Passengers w/ PyCaret 📈](https://www.kaggle.com/caesarmario/forecasting-future-passengers-w-pycaret)
 - [😄😢 [EDA] Southeast Asia Happiness Report 2021 📊](https://www.kaggle.com/caesarmario/eda-southeast-asia-happiness-report-2021)
 - [⚙💳99.9% - Credit Card Approval Prediction w/ PyCaret🏦](https://www.kaggle.com/caesarmario/99-9-approval-prediction-w-pycaret)
 - [93% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/93-eligibility-prediction-w-various-ml-models)
 
-
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
 - [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r)
 
-    
 ### 📊 Tableau Public
 - [Southeast Asia Happiness Report 2021](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
