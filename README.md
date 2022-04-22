@@ -70,30 +70,23 @@
 - [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
 - [💕💔 Heart Disease EDA & Prediction 🔮](https://www.kaggle.com/code/caesarmario/heart-disease-eda-prediction)
 - [🥑💰 Avocado Price Regression w/ PyCaret & EDA 💹](https://www.kaggle.com/caesarmario/avocado-price-regression-w-pycaret-eda)
-- [✈👨‍✈️ Forecasting Future Passengers w/ PyCaret 📈](https://www.kaggle.com/caesarmario/forecasting-future-passengers-w-pycaret)
-- [93% - Eligibility Prediction w/ Various ML Models](https://www.kaggle.com/caesarmario/93-eligibility-prediction-w-various-ml-models)
 
-#### ▶ Tutorials
+<!-- #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
-- [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r)
+- [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r) -->
 
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
 - [Southeast Asia Happiness Report 2021](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
 - [Credit Card Applicant Dashboard - Capstone Project](https://public.tableau.com/app/profile/caesarmario/viz/CreditCardApplicantDashboard/ApplicantDashboard)
-- [Supermarket Sales Data Visualization](https://public.tableau.com/app/profile/caesarmario/viz/SupermarketSalesDataVisualization/Story)
-
 
 ### 📃 Medium
 - [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
-- [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
 - Analysis of Revenue & Profit Margin to Increase Profit in Global Bike Inc. United States
     - [Part 1](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-1-7814c48d4853)
     - [Part 2](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-2-cacb6ef652f9)
     - [Part 3](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-3-94d47c3f8468)
     - [Part 4](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-4-fab89be003c1)
-- [Big Data Analytics and Technologies in COVID-19: A Big Data Case Study](https://caesarmario.medium.com/big-data-analytics-and-technologies-in-covid-19-cb30f7fbe035)
-- [Behavioural Science, Social Media and Marketing Analytics](https://caesarmario.medium.com/behavioural-science-social-media-and-marketing-analytics-df722c99186e)
 
 <!-- Stats -->
 ## 💹 Stats
@@ -105,7 +98,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
 </p>
 
-#### ▶ GitHub
+<!-- #### ▶ GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarmario&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Mario GitHub Streak"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=caesarmario&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="Mario GitHub stats">
@@ -115,13 +108,13 @@
 
 #### ▶ Total Viewer
 ![Viewer](https://komarev.com/ghpvc/?username=caesarmario&style=flat-square&label=Views)
-<br>
+<br> -->
 
-## 🎶 Playlist
+<!-- ## 🎶 Playlist
 <p align="center">
   <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=dsotcflgv3vqqpo65vtffzbbr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"><br> -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
-</p>
+ <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
+</p> -->
 
 ---
 
