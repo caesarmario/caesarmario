@@ -1,4 +1,4 @@
-<!-- Backup Code 
+<!-- Backup Code -->
 
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
