@@ -25,7 +25,7 @@
 
 <!-- GIF/Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" width="50%" height="50%" alt="Data Scientist"><br>
+  <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" width="40%" height="40%" alt="Data Scientist"><br>
   <em> GIF by: <b><a href="https://dribbble.com/rizwanbabar/">Rizwan Babar</a></b></em>
 </p>
 
@@ -62,7 +62,17 @@
   <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
   <!-- <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> -->
 </p>
-    
+
+<!-- Stats -->
+## 💹 Stats
+#### ▶ Kaggle
+<p align="center">
+  <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/> -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
+</p>
+
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
@@ -83,16 +93,6 @@
     - [Part 2](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-2-cacb6ef652f9)
     - [Part 3](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-3-94d47c3f8468)
     - [Part 4](https://caesarmario.medium.com/analysis-of-revenue-profit-margin-to-increase-profit-in-global-bike-inc-united-states-part-4-fab89be003c1)
-
-<!-- Stats -->
-## 💹 Stats
-#### ▶ Kaggle
-<p align="center">
-  <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/> -->
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
-</p>
 
 ---
 
