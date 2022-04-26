@@ -76,7 +76,6 @@
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
-#### ▶ Mini Projects
 - [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
 - [💕💔 Heart Disease EDA & Prediction 🔮](https://www.kaggle.com/code/caesarmario/heart-disease-eda-prediction)
 - [🥑💰 Avocado Price Regression w/ PyCaret & EDA 💹](https://www.kaggle.com/caesarmario/avocado-price-regression-w-pycaret-eda)
