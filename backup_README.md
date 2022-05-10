@@ -21,7 +21,3 @@
   <!-- [1] <img src="https://spotify-github-profile.vercel.app/api/view?uid=dsotcflgv3vqqpo65vtffzbbr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"><br> -->
   <!--[2]--> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
 </p>
-
-## LinkedIn
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="caesarmario" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/caesarmario?trk=profile-badge">Mario Caesar Kristantoputra</a></div>
