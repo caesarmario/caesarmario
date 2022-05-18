@@ -78,7 +78,7 @@
 ### 👨‍💻 Kaggle
 - [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
 - [💳💲 Loan Prediction w/ Various ML Models 💵](https://www.kaggle.com/code/caesarmario/loan-prediction-w-various-ml-models)
-- [🦠😷 Forecasting Daily New Confirmed Cases in Maldives 🔮](https://www.kaggle.com/code/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
+- [🦠😷 Forecasting Daily New Confirmed COVID-19 Cases in Maldives 🔮](https://www.kaggle.com/code/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 
 ### 📊 Tableau Public
 - [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
