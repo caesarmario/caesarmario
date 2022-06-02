@@ -30,7 +30,7 @@
 </p>
 
 <!-- About Me -->
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> About Me 
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello World!👋`
 - My name is **Mario**. I use this platform as my place to share my previous works/projects. <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
