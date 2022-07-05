@@ -76,8 +76,8 @@
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
+- [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
 - [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
-- [💳💲 Loan Prediction w/ Various ML Models 💵](https://www.kaggle.com/code/caesarmario/loan-prediction-w-various-ml-models)
 - [🦠😷 Forecasting Daily New Confirmed COVID-19 Cases in Maldives 🔮](https://www.kaggle.com/code/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
 
 ### 📊 Tableau Public
