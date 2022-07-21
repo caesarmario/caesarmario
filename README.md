@@ -60,6 +60,8 @@
 <p align="center">
   <a><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
 </p>
 <!-- <p align="center">
   <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
@@ -81,7 +83,7 @@
 <!-- Badges -->
 ## 🎖️ Badges
 <p align="center">
-  <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="19%" height="19%" alt="SAS Badge"/></a>
+  <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="18.5%" height="18.5%" alt="SAS Badge"/></a>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
 </p>
