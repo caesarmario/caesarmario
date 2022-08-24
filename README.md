@@ -91,6 +91,7 @@
 <!-- Posts -->
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
+- [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
 - [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
 - [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
 - [🦠😷 Forecasting Daily New Confirmed COVID-19 Cases in Maldives 🔮](https://www.kaggle.com/code/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
