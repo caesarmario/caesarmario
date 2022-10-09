@@ -3,6 +3,14 @@
 <!-- * Feel free to use this code/file by citing the README owner/name -->
 <!-- * Check out my other works here (linktr.ee/caesarmario_) -->
 
+<a href="https://www.behance.net/caesarmario_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/caesarmario_">
+ </a>
+ 
+<a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+
+<a><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
+
 <p align="center">
   <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
   <a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
@@ -41,3 +49,20 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
 </p>
+
+
+### 👨‍💻 Kaggle
+- [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
+- [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
+- [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
+- [🦠😷 Forecasting Daily New Confirmed COVID-19 Cases in Maldives 🔮](https://www.kaggle.com/code/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
+
+### 📊 Tableau Public
+- [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
+- [Southeast Asia Happiness Report 2021](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
+- [Credit Card Applicant Dashboard - Capstone Project](https://public.tableau.com/app/profile/caesarmario/viz/CreditCardApplicantDashboard/ApplicantDashboard)
+
+### 📃 Medium
+- [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+- [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
+- [Case Study - Big Data Analytics and Technologies in COVID-19](https://caesarmario.medium.com/big-data-analytics-and-technologies-in-covid-19-cb30f7fbe035)
