@@ -12,9 +12,6 @@
   <a href="https://caesarmario.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
   </a>
-  <!-- <a href="https://www.behance.net/caesarmario_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/caesarmario_">
-  </a> -->
   <a href="mailto:caesarmario87@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caesarmario87@gmail.com">
   </a>
@@ -43,7 +40,6 @@
   <a><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <!-- <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a> -->
   <a><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
 
@@ -62,13 +58,11 @@
   <a><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-  <!-- <a><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a> -->
 </p>
 
 
 <!-- Badges -->
 ## 🎖️ Badges
-
 ### 📚 Course Completion Badges
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="18.5%" height="18.5%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
@@ -91,23 +85,6 @@
 - [Southeast Asia Happiness Report 2021 -- Tableau Public](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
 - [Multiple Linear Regression in Red Wine Quality -- Medium](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
 
-<!--
-### 👨‍💻 Kaggle
-- [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
-- [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
-- [🏬🔧 Data Pre-processing, EDA & Feature Engineering 📉](https://www.kaggle.com/code/caesarmario/data-pre-processing-eda-feature-engineering)
-- [🦠😷 Forecasting Daily New Confirmed COVID-19 Cases in Maldives 🔮](https://www.kaggle.com/code/caesarmario/forecasting-daily-new-confirmed-cases-in-maldives)
-
-### 📊 Tableau Public
-- [My Resume on Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
-- [Southeast Asia Happiness Report 2021](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
-- [Credit Card Applicant Dashboard - Capstone Project](https://public.tableau.com/app/profile/caesarmario/viz/CreditCardApplicantDashboard/ApplicantDashboard)
-
-### 📃 Medium
-- [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
-- [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
-- [Case Study - Big Data Analytics and Technologies in COVID-19](https://caesarmario.medium.com/big-data-analytics-and-technologies-in-covid-19-cb30f7fbe035)
--->
 ---
 
 > ### "Fortune Favors the Bold!"
