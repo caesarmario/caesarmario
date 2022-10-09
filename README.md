@@ -64,22 +64,7 @@
   <a><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
   <!-- <a><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a> -->
 </p>
-<!-- <p align="center">
-  <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
-  <a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-</p> -->
 
-<!-- Stats -->
-<!-- ## 💹 Stats -->
-<!-- #### ▶ Kaggle -->
-<!-- <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
-</p> -->
 
 <!-- Badges -->
 ## 🎖️ Badges
