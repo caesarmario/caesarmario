@@ -63,7 +63,7 @@
 
 <!-- Badges -->
 ## 🎖️ Badges
-### 📚 Course Completion Badges
+### 📚 Course Completion & Skill Badges
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="18.5%" height="18.5%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="18.5%" height="18.5%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
