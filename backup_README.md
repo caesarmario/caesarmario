@@ -1,4 +1,14 @@
 <!-- Backup Code -->
+<!-- * Backup README file/code of Mario Caesar (linktr.ee/caesarmario_). This backup codes contains unused widgets, links, and stats from main README file -->
+<!-- * Feel free to use this code/file by citing the README owner/name -->
+<!-- * Check out my other works here (linktr.ee/caesarmario_) -->
+
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
+  <a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+</p>
 
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
@@ -20,4 +30,14 @@
 <p align="center">
   <!-- [1] <img src="https://spotify-github-profile.vercel.app/api/view?uid=dsotcflgv3vqqpo65vtffzbbr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"><br> -->
   <!--[2]--> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsotcflgv3vqqpo65vtffzbbr&count=5&width=500">
+</p>
+
+<!-- Stats -->
+## 💹 Stats
+#### ▶ Kaggle
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
 </p>
