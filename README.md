@@ -1,21 +1,21 @@
 <!-- Socials -->
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/caesarmario" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.kaggle.com/caesarmario" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.kaggle.com/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://public.tableau.com/app/profile/caesarmario" target="_blank" rel="noopener noreferrer">
+  <a href="https://public.tableau.com/app/profile/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/caesarmario">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://caesarmario.medium.com/">
+  <a href="https://caesarmario.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="mailto:caesarmario87@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:caesarmario87@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caesarmario87@gmail.com">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/caesarmario_" target="_blank" rel="noopener noreferrer">
+  <a href="https://linktr.ee/caesarmario_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/caesarmario_">
   </a>
 </p>
@@ -65,14 +65,14 @@
 ## 🎖️ Badges
 ### 📚 Course Completion & Skill Badges
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="18.5%" height="18.5%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="18.5%" height="18.5%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="18.5%" height="18.5%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="18.5%" height="18.5%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="18.5%" height="18.5%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="18.5%" height="18.5%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
 </p>
 
 ### 🏆 Certification Badges
 <p align="center">
-  <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="18.5%" height="18.5%" alt="SAS Badge"/></a>
+  <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="18.5%" height="18.5%" alt="SAS Badge"/></a>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
 </p>
