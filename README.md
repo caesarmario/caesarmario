@@ -69,6 +69,7 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="14%" height="14%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720520" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/ll7JX2lQRFcsQvsyGKHDIrHroGUaR8C8iWZcIBbyQTM%3D" width="14%" height="14%" alt="Building Resilient Streaming Analytics Systems on Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="14%" height="14%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720946" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2F5gxqGOWNHh8z46puNxn1UZVt96Qiy6vrJKasroCHTA%3D" width="14%" height="14%" alt="Serverless Data Processing with Dataflow: Foundations"/></a>
 </p>
 
 ### 🏆 Certification Badges
