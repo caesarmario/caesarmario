@@ -67,6 +67,7 @@
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="14% height="14%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="14%" height="14%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720520" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/ll7JX2lQRFcsQvsyGKHDIrHroGUaR8C8iWZcIBbyQTM%3D" width="14%" height="14%" alt="Building Resilient Streaming Analytics Systems on Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="14%" height="14%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
 </p>
 
