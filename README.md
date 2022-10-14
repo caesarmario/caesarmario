@@ -52,7 +52,6 @@
   <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
   <a><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-  
 </p>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
@@ -70,6 +69,9 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720520" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/ll7JX2lQRFcsQvsyGKHDIrHroGUaR8C8iWZcIBbyQTM%3D" width="14%" height="14%" alt="Building Resilient Streaming Analytics Systems on Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="14%" height="14%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720946" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2F5gxqGOWNHh8z46puNxn1UZVt96Qiy6vrJKasroCHTA%3D" width="14%" height="14%" alt="Serverless Data Processing with Dataflow: Foundations"/></a>
+</p>
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="16%" height="16%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>
 </p>
 
 ### 🏆 Certification Badges
