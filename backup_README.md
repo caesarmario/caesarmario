@@ -3,7 +3,7 @@
 <!-- * Feel free to use this code/file by citing the README owner/name -->
 <!-- * Check out my other works here (linktr.ee/caesarmario_) -->
 
-<!-- GitHub -->
+<!-- From GitHub Readme -->
 <a href="https://www.behance.net/caesarmario_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/caesarmario_">
  </a>
@@ -68,6 +68,13 @@
 - [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
 - [Case Study - Big Data Analytics and Technologies in COVID-19](https://caesarmario.medium.com/big-data-analytics-and-technologies-in-covid-19-cb30f7fbe035)
 
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="12%" height="12%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="12%" height="12%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720520" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/ll7JX2lQRFcsQvsyGKHDIrHroGUaR8C8iWZcIBbyQTM%3D" width="12%" height="12%" alt="Building Resilient Streaming Analytics Systems on Google Cloud"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="12%" height="12%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720946" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2F5gxqGOWNHh8z46puNxn1UZVt96Qiy6vrJKasroCHTA%3D" width="12%" height="12%" alt="Serverless Data Processing with Dataflow: Foundations"/></a>
+</p>
 
 <!-- From Kaggle Bio -->
 <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="100" alt="SASBadge"/></a>
