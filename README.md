@@ -65,7 +65,7 @@
 ### 📚 Course Completion & Skill Badges
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="16%" height="16%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="16%" height="16%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="16%" height="16%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
 </p>
 
 ### 🏆 Certification Badges
