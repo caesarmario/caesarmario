@@ -75,6 +75,7 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="12%" height="12%" alt="Smart Analytics, Machine Learning, and AI on Google Cloud - Google"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720946" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2F5gxqGOWNHh8z46puNxn1UZVt96Qiy6vrJKasroCHTA%3D" width="12%" height="12%" alt="Serverless Data Processing with Dataflow: Foundations"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741450" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" width="12%" height="12%" alt="Data Engineering"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2744922" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" width="12%" height="12%" alt="BigQuery Basics for Data Analysts"/></a>
 </p>
 
 <!-- From Kaggle Bio -->
@@ -85,4 +86,5 @@
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="110" alt="Google4"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720946"><img src="https://cdn.qwiklabs.com/%2F5gxqGOWNHh8z46puNxn1UZVt96Qiy6vrJKasroCHTA%3D" width="110" alt="Google5"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2727957"><img src="https://cdn.qwiklabs.com/8wZI%2Bj18z5J5%2BHX7wspsQQSjLGGOlbQmx36HCAoLk%2Fk%3D" width="110" alt="Google6"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741450"><img src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" width="110" alt="Google6"/></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741450"><img src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" width="110" alt="Google7"/></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2744922"><img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" width="110" alt="Google8"/></a>
