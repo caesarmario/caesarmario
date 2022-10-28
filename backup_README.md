@@ -85,4 +85,3 @@
  <!-- Skills Badge -->
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2773139" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="17%" height="17%" alt="Exploring Data with Looker"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2778788" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/lIg3eM71hoTWlibz3nDLlW914bdh%2FTyq49DtYXGqt5Q%3D" width="17%" height="17%" alt="Build and Deploy Machine Learning Solutions on Vertex AI"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="17%" height="17%" alt="Create ML Models with BigQuery ML"/></a>
