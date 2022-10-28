@@ -79,6 +79,7 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2744922" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" width="12%" height="12%" alt="BigQuery Basics for Data Analysts"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2772974" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/tQ%2BH5t5YFW0ExV5LB%2Fpyli4m1GGWhAzUs2423D04Uos%3D" width="12%" height="12%" alt="Preparing for the Google Cloud Professional Data Engineer Exam"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2784327" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/wM1hlNzU2Q0gICAh5H%2FuxOWRmCEZy8n4iL5uY084R0M%3D" width="12%" height="12%" alt="BigQuery for Machine Learning"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785257" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/h%2FIVtx06Cx%2FlEFFsEhXYDX4yQom0wFGFsAzES6iN%2Fg8%3D" width="12%" height="12%" alt="BigQuery for Machine Learning"/></a>
 </p>
  
  <!-- Skills Badge -->
