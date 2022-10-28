@@ -80,20 +80,8 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2772974" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/tQ%2BH5t5YFW0ExV5LB%2Fpyli4m1GGWhAzUs2423D04Uos%3D" width="12%" height="12%" alt="Preparing for the Google Cloud Professional Data Engineer Exam"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2784327" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/wM1hlNzU2Q0gICAh5H%2FuxOWRmCEZy8n4iL5uY084R0M%3D" width="12%" height="12%" alt="BigQuery for Machine Learning"/></a>
 </p>
-
-<!-- From Kaggle Bio -->
-<a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="100" alt="SASBadge"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="110" alt="Google1"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="110" alt="Google2"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720520"><img src="https://cdn.qwiklabs.com/ll7JX2lQRFcsQvsyGKHDIrHroGUaR8C8iWZcIBbyQTM%3D" width="110" alt="Google3"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2707066"><img src="https://cdn.qwiklabs.com/SeyvvIPtws8PoouWUfTC4nUkJAPCpXOAGaLHSNVGolE%3D" width="110" alt="Google4"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2720946"><img src="https://cdn.qwiklabs.com/%2F5gxqGOWNHh8z46puNxn1UZVt96Qiy6vrJKasroCHTA%3D" width="110" alt="Google5"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2727957"><img src="https://cdn.qwiklabs.com/8wZI%2Bj18z5J5%2BHX7wspsQQSjLGGOlbQmx36HCAoLk%2Fk%3D" width="110" alt="Google6"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741450"><img src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" width="110" alt="Google7"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2744922"><img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" width="110" alt="Google8"/></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2772974"><img src="https://cdn.qwiklabs.com/tQ%2BH5t5YFW0ExV5LB%2Fpyli4m1GGWhAzUs2423D04Uos%3D" width="110" alt="Google9"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2784327"><img src="https://cdn.qwiklabs.com/wM1hlNzU2Q0gICAh5H%2FuxOWRmCEZy8n4iL5uY084R0M%3D" width="110" alt="Google10"/></a>
  
  <!-- Skills Badge -->
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2773139" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="17%" height="17%" alt="Exploring Data with Looker"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2778788" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/lIg3eM71hoTWlibz3nDLlW914bdh%2FTyq49DtYXGqt5Q%3D" width="17%" height="17%" alt="Build and Deploy Machine Learning Solutions on Vertex AI"/></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="17%" height="17%" alt="Create ML Models with BigQuery ML"/></a>
