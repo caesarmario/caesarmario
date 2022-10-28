@@ -68,6 +68,7 @@
 - [Factor Analysis in Red Wine Quality](https://caesarmario.medium.com/factor-analysis-in-red-wine-quality-7665ee0ef30d)
 - [Case Study - Big Data Analytics and Technologies in COVID-19](https://caesarmario.medium.com/big-data-analytics-and-technologies-in-covid-19-cb30f7fbe035)
 
+<!-- Completion Badges -->
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2650136" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/P2WZ5Sy9R%2B8JiXZDC47HyDpnu3Fv1JGgeJm80J0yFvA%3D" width="12%" height="12%" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud - Google"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2678295" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CKPSGrCkK8WsDJceFu%2FfnYl8ImeY7sN8qbne1SCG%2Bm8%3D" width="12%" height="12%" alt="Building Batch Data Pipelines on Google Cloud - Google"/></a>
@@ -77,6 +78,7 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741450" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" width="12%" height="12%" alt="Data Engineering"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2744922" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" width="12%" height="12%" alt="BigQuery Basics for Data Analysts"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2772974" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/tQ%2BH5t5YFW0ExV5LB%2Fpyli4m1GGWhAzUs2423D04Uos%3D" width="12%" height="12%" alt="Preparing for the Google Cloud Professional Data Engineer Exam"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2784327" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/wM1hlNzU2Q0gICAh5H%2FuxOWRmCEZy8n4iL5uY084R0M%3D" width="12%" height="12%" alt="BigQuery for Machine Learning"/></a>
 </p>
 
 <!-- From Kaggle Bio -->
@@ -90,6 +92,8 @@
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741450"><img src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" width="110" alt="Google7"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2744922"><img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" width="110" alt="Google8"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2772974"><img src="https://cdn.qwiklabs.com/tQ%2BH5t5YFW0ExV5LB%2Fpyli4m1GGWhAzUs2423D04Uos%3D" width="110" alt="Google9"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2784327"><img src="https://cdn.qwiklabs.com/wM1hlNzU2Q0gICAh5H%2FuxOWRmCEZy8n4iL5uY084R0M%3D" width="110" alt="Google10"/></a>
  
+ <!-- Skills Badge -->
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2773139" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="17%" height="17%" alt="Exploring Data with Looker"/></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2778788" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/lIg3eM71hoTWlibz3nDLlW914bdh%2FTyq49DtYXGqt5Q%3D" width="17%" height="17%" alt="Build and Deploy Machine Learning Solutions on Vertex AI"/></a>
