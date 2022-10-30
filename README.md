@@ -69,6 +69,7 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="17%" height="17%" alt="Engineer Data in Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741645" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/Ob6sxQipL%2F04zO87%2BtO1xGhLBio6RiIYWAfwH%2B2%2B02g%3D" width="17%" height="17%" alt="Insights from Data with BigQuery"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="17%" height="17%" alt="Create ML Models with BigQuery ML"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2792915" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/iwtuGVF4e8ZfuEsIb6lO5YSTcEXgum4pbvgpk7vIiXE%3D" width="17%" height="17%" alt="Predict Soccer Match Outcomes with BigQuery ML"/></a>
 </p>
 
 <p align="center"></p>
