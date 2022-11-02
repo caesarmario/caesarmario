@@ -82,6 +82,7 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785257" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/h%2FIVtx06Cx%2FlEFFsEhXYDX4yQom0wFGFsAzES6iN%2Fg8%3D" width="12%" height="12%" alt="Baseline: Data, ML, AI"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2791898" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/V34VI%2F%2Bgbb8R3wx%2FcY7YR5m0rDjb%2BO0Ng15IXqjQmZg%3D" width="12%" height="12%" alt="Machine Learning APIs"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2791986" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2ByRoVVhrBZ6yVj2qvTL1uC9FXZRixCjyoRBmflV6n18%3D" width="12%" height="12%" alt="Applying BigQuery ML's Classification, Regression, and Demand Forecasting for Retail Applications"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2805479" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/HQ8jNKh%2B3GgyXKK%2FO4rHU9mjdiG686k2KLz8odm8cus%3D" width="12%" height="12%" alt="Data Science on Google Cloud: Machine Learning"/></a>
 </p>
  
  <!-- Skills Badge -->
