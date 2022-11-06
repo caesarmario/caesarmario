@@ -84,6 +84,7 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2791986" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2ByRoVVhrBZ6yVj2qvTL1uC9FXZRixCjyoRBmflV6n18%3D" width="12%" height="12%" alt="Applying BigQuery ML's Classification, Regression, and Demand Forecasting for Retail Applications"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2805479" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/HQ8jNKh%2B3GgyXKK%2FO4rHU9mjdiG686k2KLz8odm8cus%3D" width="12%" height="12%" alt="Data Science on Google Cloud: Machine Learning"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2815485" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/r%2BjRIU1BGmi%2F57D7Ng%2FNNv8WzwUrHWDWHufSvyIKIy4%3D" width="12%" height="12%" alt="Data Science on Google Cloud"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2824195" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2Fuq8ZLWpBwlunLbphQPHuSEgIQgZxNapBXxAZ0om%2BjI%3D" width="12%" height="12%" alt="Language, Speech, Text, & Translation with Google Cloud APIs"/></a>
 </p>
  
  <!-- Skills Badge -->
