@@ -83,11 +83,11 @@
 
 <!-- Posts -->
 ## 📰 Latest Projects/Posts
-- [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮 -- Kaggle](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
-- [🍜🌟 Ramen Reviews EDA w/ R 📈 -- Kaggle](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
-- [Curiculum Vitae using Tableau -- Tableau Public](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
-- [Southeast Asia Happiness Report 2021 -- Tableau Public](https://public.tableau.com/app/profile/caesarmario/viz/SouthEastAsiaHappinessReport2021/SEAHappinessReport2021)
-- [Multiple Linear Regression in Red Wine Quality -- Medium](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+- [👥💳 Credit Card Customer Clustering for Effective Marketing Strategy 💹](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy)
+- [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
+- [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
+- [Curiculum Vitae using Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
+- [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
 
 ---
 
