@@ -86,8 +86,8 @@
 - [👥💳 Credit Card Customer Clustering for Effective Marketing Strategy 💹](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy)
 - [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
 - [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
-- [Curiculum Vitae using Tableau](https://public.tableau.com/app/profile/caesarmario/viz/MarioCaesar-CurriculumVitae/Resume)
-- [Multiple Linear Regression in Red Wine Quality](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+- [👥🏪 Evaluate Shopper Clusters w/ "clusteval" 🛍️](https://www.kaggle.com/code/caesarmario/evaluate-shopper-clusters-w-clusteval)
+- [Mall Customers Clustering Analysis using SAS Enterprise Miner](https://caesarmario.medium.com/da594bd2718b)
 
 ---
 
