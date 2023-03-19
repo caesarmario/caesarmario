@@ -63,24 +63,16 @@
 
 <!-- Badges -->
 ## 🎖️ Badges
-### 📚 Course Completion & Skill Badges
 <p align="center">
-  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>-->
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="14%" height="14%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="14%" height="14%" alt="Engineer Data in Google Cloud"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741645" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/Ob6sxQipL%2F04zO87%2BtO1xGhLBio6RiIYWAfwH%2B2%2B02g%3D" width="14%" height="14%" alt="Insights from Data with BigQuery"/></a>
+  <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="10%" height="10%" alt="SAS Badge"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="15%" height="15%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="15%" height="15%" alt="Engineer Data in Google Cloud"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741645" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/Ob6sxQipL%2F04zO87%2BtO1xGhLBio6RiIYWAfwH%2B2%2B02g%3D" width="15%" height="15%" alt="Insights from Data with BigQuery"/></a>
+    <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>-->
   <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="14%" height="14%" alt="Create ML Models with BigQuery ML"/></a>-->
   <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2792915" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/iwtuGVF4e8ZfuEsIb6lO5YSTcEXgum4pbvgpk7vIiXE%3D" width="14%" height="14%" alt="Predict Soccer Match Outcomes with BigQuery ML"/></a>-->
 </p>
-
 <p align="center"></p>
-
-### 🏆 Certification Badges
-<p align="center">
-  <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="17%" height="17%" alt="SAS Badge"/></a>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/" width="12.5%" height="12.5%" alt="Kaggle Notebook"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/" width="12.5%" height="12.5%" alt="Kaggle Dataset"/>
-</p>
 
 <!-- Posts -->
 ## 📰 Latest Projects/Posts
