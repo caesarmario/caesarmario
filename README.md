@@ -82,7 +82,7 @@
 - [👥🏪 Evaluate Shopper Clusters w/ "clusteval" 🛍️](https://www.kaggle.com/code/caesarmario/evaluate-shopper-clusters-w-clusteval)
 - [Mall Customers Clustering Analysis using SAS Enterprise Miner](https://caesarmario.medium.com/da594bd2718b)
 
-## ☕ Support me on Ko-fi!
+## ☕ Support me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3JU963)
 
 ---
