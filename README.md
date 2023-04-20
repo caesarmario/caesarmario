@@ -80,7 +80,7 @@
 - [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
 - [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
 - [👥🏪 Evaluate Shopper Clusters w/ "clusteval" 🛍️](https://www.kaggle.com/code/caesarmario/evaluate-shopper-clusters-w-clusteval)
-- [Mall Customers Clustering Analysis using SAS Enterprise Miner](https://caesarmario.medium.com/da594bd2718b)
+- [💕💔Listen to Your Heart: A Disease Prediction🔮](https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction)
 
 ## ☕ Support me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3JU963)
