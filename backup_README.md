@@ -112,3 +112,12 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/" width="12.5%" height="12.5%" alt="Kaggle Notebook"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/" width="12.5%" height="12.5%" alt="Kaggle Dataset"/>
 </p>
+
+<!-- 12 May 2023: Kaggle Bio -->
+### 🎖️ Badges
+
+---
+
+<a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="110" alt="SASBadge"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="160" alt="Google1"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="160" alt="Google2"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="160" alt="Google3"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741645"><img src="https://cdn.qwiklabs.com/Ob6sxQipL%2F04zO87%2BtO1xGhLBio6RiIYWAfwH%2B2%2B02g%3D" width="160" alt="Google4"/></a> <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="160" alt="Google5"/></a>
+
+<!-- For Future Backup's -->

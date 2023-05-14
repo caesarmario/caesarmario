@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
   </a>
+  <a href="https://twitter.com/caesarmario_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/caesarmario_">
+  </a>
   <a href="https://www.kaggle.com/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
   </a>
@@ -30,7 +33,8 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello World!👋`
 - My name is **Mario**. I use this platform as my place to share my previous works/projects.
-- I'm also a **brand ambassador for [Akridata Data Explorer](https://akridata.ai/data-explorer/)**.
+- I'm a **brand ambassador for [Akridata Data Explorer](https://akridata.ai/data-explorer/)**.
+- I also create mini data visualization series called **[Data Slices](https://github.com/caesarmario/data-slices)**.
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
 
@@ -68,19 +72,20 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="15%" height="15%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="15%" height="15%" alt="Engineer Data in Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741645" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/Ob6sxQipL%2F04zO87%2BtO1xGhLBio6RiIYWAfwH%2B2%2B02g%3D" width="15%" height="15%" alt="Insights from Data with BigQuery"/></a>
-    <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>-->
+  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>-->
   <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="14%" height="14%" alt="Create ML Models with BigQuery ML"/></a>-->
   <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2792915" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/iwtuGVF4e8ZfuEsIb6lO5YSTcEXgum4pbvgpk7vIiXE%3D" width="14%" height="14%" alt="Predict Soccer Match Outcomes with BigQuery ML"/></a>-->
 </p>
 <p align="center"></p>
 
+
 <!-- Posts -->
 ## 📰 Latest Projects/Posts
-- [👥💳 Credit Card Customer Clustering for Effective Marketing Strategy 💹](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy)
+- [💕💔Listen to Your Heart: A Disease Prediction🔮](https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction)
 - [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
+- [👥💳 Credit Card Customer Clustering for Effective Marketing Strategy 💹](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy)
 - [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
 - [👥🏪 Evaluate Shopper Clusters w/ "clusteval" 🛍️](https://www.kaggle.com/code/caesarmario/evaluate-shopper-clusters-w-clusteval)
-- [💕💔Listen to Your Heart: A Disease Prediction🔮](https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction)
 
 ## ☕ Support me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3JU963)
