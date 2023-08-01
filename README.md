@@ -68,6 +68,11 @@
 <!-- Badges -->
 ## 🎖️ Badges
 <p align="center">
+<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/> -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/" width="10%">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/" width="10%">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/" width="10%">
+  <br>
   <a href="https://www.credly.com/badges/b5ceb8bd-0605-4376-a55f-b02fee9b9c50/public_url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/caesarmario/caesarmario/main/Pictures/sas-asia-pacific-university-of-technology-and-innovation-joint-certificate-in-data-science-and-business-analytics.png" width="10%" height="10%" alt="SAS Badge"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="15%" height="15%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="15%" height="15%" alt="Engineer Data in Google Cloud"/></a>
