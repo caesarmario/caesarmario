@@ -17,8 +17,15 @@
   <a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
 
+<!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>-->
+  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="14%" height="14%" alt="Create ML Models with BigQuery ML"/></a>-->
+  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2792915" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/iwtuGVF4e8ZfuEsIb6lO5YSTcEXgum4pbvgpk7vIiXE%3D" width="14%" height="14%" alt="Predict Soccer Match Outcomes with BigQuery ML"/></a>-->
+  
 #### ▶ Tutorials
 - [Introduction to Network Models using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-network-models-using-r)
 - [Introduction to Markov Chain using R](https://www.kaggle.com/caesarmario/beginner-introduction-to-markov-chain-using-r)
