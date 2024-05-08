@@ -32,8 +32,8 @@
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello World!👋`
-- My name is **Mario**. I use this platform as my place to share my previous works/projects.
-- I'm a **brand ambassador for [Akridata Data Explorer](https://akridata.ai/data-explorer/)**.
+- My name is **Mario**. I use this platform to share my works/projects.
+- I'm an **ambassador for Data Wizards Community**. Join the community on Discord 🇮🇩: [bit.ly/WizLink](bit.ly/WizLink)
 - I also create mini data visualization series called **[Data Slices](https://github.com/caesarmario/data-slices)**.
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
@@ -42,33 +42,33 @@
 ## 🎯 Skills
 <p align="center">
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"></a>
+  <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
 <!-- Software -->
 ## 🖥 Software
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  <a><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-</p>
-<p align="center">
   <a><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
-
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+</p>
 
 <!-- Badges -->
 ## 🎖️ Badges
 <p align="center">
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/> -->
+  <!--<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>-->
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/" width="10%">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/" width="10%">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/" width="10%">
@@ -77,20 +77,19 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2728004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/pvJAPKZACj9RvUOd1IuetIiUFGEfsuGZZMkQJaI0m20%3D" width="15%" height="15%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741101" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="15%" height="15%" alt="Engineer Data in Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2741645" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/Ob6sxQipL%2F04zO87%2BtO1xGhLBio6RiIYWAfwH%2B2%2B02g%3D" width="15%" height="15%" alt="Insights from Data with BigQuery"/></a>
-  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2726488" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a>-->
-  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2785116" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="14%" height="14%" alt="Create ML Models with BigQuery ML"/></a>-->
-  <!--<a href="https://www.cloudskillsboost.google/public_profiles/e1e49691-5144-4d7e-b183-7075c066088d/badges/2792915" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/iwtuGVF4e8ZfuEsIb6lO5YSTcEXgum4pbvgpk7vIiXE%3D" width="14%" height="14%" alt="Predict Soccer Match Outcomes with BigQuery ML"/></a>-->
 </p>
 <p align="center"></p>
 
-
 <!-- Posts -->
-## 📰 Latest Projects/Posts
-- [💕💔Listen to Your Heart: A Disease Prediction🔮](https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction)
-- [🚢⚓ Titanic Survival Prediction w/ various ML Models 🔮](https://www.kaggle.com/code/caesarmario/survival-prediction-w-various-ml-models)
-- [👥💳 Credit Card Customer Clustering for Effective Marketing Strategy 💹](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy)
-- [🍜🌟 Ramen Reviews EDA w/ R 📈](https://www.kaggle.com/code/caesarmario/ramen-reviews-eda-w-r)
-- [👥🏪 Evaluate Shopper Clusters w/ "clusteval" 🛍️](https://www.kaggle.com/code/caesarmario/evaluate-shopper-clusters-w-clusteval)
+## 📰 Projects/Posts
+- [Automating Kaggle Datasets Updates via Kaggle API](https://www.kaggle.com/code/caesarmario/auto-update-existing-kaggle-datasets-via-api)
+- [Loan Applicant Data Warehouse using Pentaho](https://github.com/caesarmario/data-warehouse-credit-card-applicant-using-pentaho)
+
+<!-- Additional Information -->
+## 🏆 Additional Information
+- [Dealls Super Mentor - Data](https://dealls.com/mentoring/mario-caesar-557)
+- [Data Wizards x HaloTech Academy Speaker - Emotional Journey in Color Breakdown](https://www.youtube.com/live/eol9iHUQZUI?si=0g88xwG7g_VsbSWa)
+- [Bangkit Capstone Advisor 2023 Batch 1 & 2 - Machine Learning](https://www.linkedin.com/posts/caesarmario_bangkit-2023-certificate-of-appreciation-activity-7098487489652297728-8ifT?utm_source=share&utm_medium=member_desktop)
 
 ## ☕ Support me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3JU963)
