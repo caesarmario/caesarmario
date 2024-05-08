@@ -9,9 +9,9 @@
   <a href="https://www.kaggle.com/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
   </a>
-  <a href="https://public.tableau.com/app/profile/caesarmario" target="_blank" rel="noopener noreferrer">
+  <!--<a href="https://public.tableau.com/app/profile/caesarmario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/caesarmario">
-  </a>
+  </a>-->
   <a href="https://caesarmario.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
   </a>
