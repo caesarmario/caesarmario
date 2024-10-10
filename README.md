@@ -33,10 +33,10 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello World!👋`
 - My name is **Mario**. I use this platform to share my works/projects.
-- I'm an **ambassador for Data Wizards Community**. Join the community on Discord 🇮🇩: [bit.ly/WizLink](bit.ly/WizLink)
-- I also create mini data visualization series called **[Data Slices](https://github.com/caesarmario/data-slices)**.
+- I <!--also--> create mini data visualization series called **[Data Slices](https://github.com/caesarmario/data-slices)**.
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/caesarmario)** or my **[personal email](mailto:caesarmario87@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
+<!-- - I'm an **ambassador for Data Wizards Community**. Join the community on Discord 🇮🇩: [bit.ly/WizLink](bit.ly/WizLink) -->
 
 <!-- Programming Skills -->
 ## 🎯 Skills
