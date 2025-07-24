@@ -89,7 +89,7 @@
 
 <!-- Projects -->
 ## 📰 Latest Projects
-- [**[IN PROGRESS]** - Weather Data Engineering Pipeline](https://github.com/caesarmario/weather-data-engineering-pipeline)
+- [**[WIP]** - Weather Data Engineering Pipeline](https://github.com/caesarmario/weather-data-engineering-pipeline)
 - [Automating Kaggle Datasets Updates via Kaggle API](https://www.kaggle.com/code/caesarmario/auto-update-existing-kaggle-datasets-via-api)
 - [Loan Applicant Data Warehouse using Pentaho](https://github.com/caesarmario/data-warehouse-credit-card-applicant-using-pentaho)
 
