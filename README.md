@@ -1,9 +1,9 @@
-<h1 align="center">Mario Caesar Kristantoputra</h1>
+<h1 align="center">Mario Caesar</h1>
 <p align="center">
   Data Engineer • Mentor • Speaker
 </p>
 <p align="center">
-  I build reliable data platforms, production-grade ETL/ELT pipelines, and analytics foundations that help teams move faster with more trust in their data.
+  I build reliable data platforms, practical ETL/ELT pipelines, and analytics foundations that help teams move faster with more trust in their data.
 </p>
 
 <p align="center">
@@ -20,73 +20,36 @@
     <img src="https://img.shields.io/badge/Kaggle-caesarmario-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:caesarmario87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-caesarmario87%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-## About Me
+## About
 
-- I'm a **Data Engineer from Indonesia**, currently working as a **Mid-Data Warehouse Engineer at Kredit Pintar (Advance Intelligence Group)**.
-- Previously, I worked across **Agoda**, **Allo Bank Indonesia**, and **Kredivo Group**, building data pipelines, warehouse layers, reporting foundations, and governance workflows.
-- My work focuses on **Python**, **SQL**, **Airflow**, **dbt**, **BigQuery**, **PySpark**, **Kafka**, **Microsoft Fabric**, and practical data quality and observability.
-- Outside my day-to-day work, I mentor and teach aspiring data professionals, and I occasionally speak about practical data engineering and analytics.
+I'm a Data Engineer from Indonesia with experience across Agoda, Allo Bank Indonesia, Kredivo Group, and Kredit Pintar. I enjoy building dependable pipelines, warehouse layers, and data workflows that are practical, observable, and easy for teams to trust.
 
-## Core Stack
+My core stack includes Python, SQL, Airflow, dbt, BigQuery, PySpark, Kafka, and Microsoft Fabric.
 
-- **Programming & ETL:** Python, SQL, Scala, Pandas, requests, boto3, psycopg2/pyodbc, Airflow, dbt, Microsoft Fabric
-- **Cloud & Big Data:** GCP, BigQuery, Dataproc, Composer, Cloud Functions, Cloud Storage, AWS Lambda, S3, Kafka/Confluent, Apache Spark
-- **Databases & Tools:** PostgreSQL, MySQL/MariaDB, SQL Server, Docker, Git, Jupyter, Grafana, Datadog, Metabase, Tableau
-- **Focus Areas:** ETL/ELT design, analytics engineering, data quality, observability, warehouse modeling, and privacy-aware data workflows
+## Selected Work
 
-## Selected Highlights
+- Re-architected ingestion and ETL pipelines to reduce runtimes from hours to minutes
+- Built reusable, config-driven data workflows for faster onboarding and cleaner maintenance
+- Improved data quality, lineage, and observability across analytics and reporting systems
+- Designed privacy-aware data solutions for masking, governance, and secure delivery
 
-- Re-architected a Greenhouse ingestion pipeline at **Agoda**, reducing runtime from **2.5 hours to 45 minutes** while reliably loading **33 CSV files up to ~8 GB** into SQL Server.
-- Re-engineered Business Summary ETL at **Allo Bank Indonesia** from monolithic Pandas scripts into modular **dbt** models, moving key dashboards **2 hours earlier** and cutting heavy refresh times by around **60%**.
-- Built a templated ingestion framework at **Krom Bank Indonesia**, using **Jinja + YAML** to standardize pipeline patterns and reduce new-source development time by around **2 days**.
-- Redesigned an operations ETL at **FinAccel Teknologi Indonesia** from Pandas into a **PySpark + Airflow** workflow, reducing runtime from **30 minutes to 18 minutes**.
-- Led data quality and reconciliation improvements with automated **Airflow** checks, monitoring stores, and alerting workflows to replace manual validation routines.
+## Beyond Work
 
-## Featured Projects
+I also mentor and teach aspiring data professionals, contribute to technical learning programs, and occasionally speak about practical data engineering and analytics.
 
-- **Config-Driven Yelp and Weather Data Quality Pipeline**  
-  Reusable Airflow-based ingestion stack with PostgreSQL, MinIO, Docker, dbt-style quality checks, and monitoring views for multi-layer validation.  
-  Repo: https://github.com/caesarmario/config-driven-dq-yelp-weather
+## Find Me
 
-- **Automating Kaggle Dataset Updates via Kaggle API**  
-  A Kaggle-oriented stock data refresh workflow with automated dataset updates, lightweight data checks, and repeatable publishing steps.  
-  Project: https://www.kaggle.com/code/caesarmario/auto-update-existing-kaggle-datasets-via-api
-
-- **End-to-End Weather Data Engineering Project**  
-  Ongoing containerized ETL/ELT platform using Python, Airflow, dbt, PostgreSQL, MinIO, Docker Compose, and BI dashboards, with a strong focus on data quality and observability.
-
-## Speaking & Mentoring
-
-- **PyCon APAC 2024** — Short Talk Speaker
-- **Dibimbing** — Data Engineer Mentor & Instructor
-- **Hacktiv8 Indonesia** — Freelance Data & Analytics Instructor
-- Former mentor/advisor for programs such as **Bangkit Academy** and **Dealls Mentorship**
-
-## Certifications
-
-- Build a Data Warehouse with BigQuery — Google Skills
-- Building Resilient Streaming Analytics Systems on Google Cloud — Google Skills
-- dbt Fundamentals — dbt Labs
-- Banking Risk Management Certification Level 4 — BSMR
-
-## Current Focus
-
-- Building stronger, more reliable data engineering portfolio projects
-- Sharing practical lessons from real-world ETL and warehouse work
-- Exploring better ways to combine **data engineering, observability, and privacy-aware delivery**
-- Growing my personal website and content around practical data systems
-
-## Connect
-
-- Website: **https://caesarmar.io**
-- LinkedIn: **https://www.linkedin.com/in/caesarmario**
-- Medium: **https://caesarmario.medium.com**
-- Full CV: available by request via **caesarmar.io**
+- Website: [caesarmar.io](https://caesarmar.io)
+- LinkedIn: [linkedin.com/in/caesarmario](https://www.linkedin.com/in/caesarmario)
+- Medium: [caesarmario.medium.com](https://caesarmario.medium.com/)
+- Full CV: available by request through [caesarmar.io](https://caesarmar.io)
 
 ---
 
-> “Fortune favors the bold.”
+<p align="center">
+  <i>Fortune favors the bold.</i>
+</p>
