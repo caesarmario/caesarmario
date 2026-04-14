@@ -46,7 +46,7 @@ I also mentor and teach aspiring data professionals, contribute to technical lea
 - Website: [caesarmar.io](https://caesarmar.io)
 - LinkedIn: [linkedin.com/in/caesarmario](https://www.linkedin.com/in/caesarmario)
 - Medium: [caesarmario.medium.com](https://caesarmario.medium.com/)
-- Full CV: available by request through [caesarmar.io](https://caesarmar.io)
+- Email: [hello@caesarmar.io](hello@caesarmar.io)
 
 ---
 
