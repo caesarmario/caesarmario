@@ -19,7 +19,7 @@
   <a href="https://www.kaggle.com/caesarmario">
     <img src="https://img.shields.io/badge/Kaggle-caesarmario-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="mailto:caesarmario87@gmail.com">
+  <a href="mailto:hello@caesarmar.io">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
