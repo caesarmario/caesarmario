@@ -26,7 +26,7 @@
 
 ## About
 
-I'm a Data Engineer from Indonesia with experience across Agoda, Allo Bank Indonesia, Kredivo Group, and Kredit Pintar. I enjoy building dependable pipelines, warehouse layers, and data workflows that are practical, observable, and easy for teams to trust.
+I'm a Data Engineer from Indonesia with experience across Agoda, Allo Bank Indonesia, and Kredivo Group. I enjoy building dependable pipelines, warehouse layers, and data workflows that are practical, observable, and easy for teams to trust.
 
 My core stack includes Python, SQL, Airflow, dbt, BigQuery, PySpark, Kafka, and Microsoft Fabric.
 
