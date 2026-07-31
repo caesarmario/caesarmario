@@ -10,10 +10,10 @@
   <a href="https://caesarmar.io">
     <img src="https://img.shields.io/badge/Website-caesarmar.io-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/caesarmario">
+  <a href="https://caesarmar.io/linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Mario%20Caesar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://caesarmario.medium.com/">
+  <a href="https://caesarmar.io/medium">
     <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.kaggle.com/caesarmario">
