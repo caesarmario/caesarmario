@@ -28,14 +28,14 @@
 
 I'm a Data Engineer from Indonesia with experience across Fintech and Digital Banking. I enjoy building dependable pipelines, warehouse layers, and data workflows that are practical, observable, and easy for teams to trust.
 
-My core stack includes Python, SQL, Airflow, dbt, BigQuery, PySpark, Kafka, and Microsoft Fabric.
+My core stack includes Python, SQL, Scala, Spark/PySpark, Airflow, dbt, Kafka/Confluent, BigQuery, and GCP.
 
 ## Selected Work
 
-- Re-architected ingestion and ETL pipelines to reduce runtimes from hours to minutes
-- Built reusable, config-driven data workflows for faster onboarding and cleaner maintenance
-- Improved data quality, lineage, and observability across analytics and reporting systems
-- Designed privacy-aware data solutions for masking, governance, and secure delivery
+- Built [SQLTerrain](https://sqlterrain.caesarmar.io/), a local-first SQL engineering workbench validated with 10,000 benchmark cases and 1,200+ real SQL conversion tests
+- Engineered a config-driven data quality pipeline processing ~14M rows in ~11 minutes with 12K+ validation checks per run
+- Re-architected production ingestion and ETL workflows using Python, Spark, Airflow, dbt, and Kafka, reducing multi-hour runtimes to minutes
+- Designed reusable data platform patterns for data quality, observability, schema evolution, governance, and privacy-aware data delivery
 
 ## Beyond Work
 
